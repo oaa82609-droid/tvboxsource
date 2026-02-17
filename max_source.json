@@ -1,0 +1,50 @@
+{
+  "sites": [
+    {
+      "key": "max-source",
+      "name": "终极全量源",
+      "type": 3,
+      "api": "",
+      "ext": {
+        "videos": [
+          {
+            "name": "视频1",
+            "url": "https://s.tutu.pm/img/mv/5DWb/384.avi"
+          },
+          {
+            "name": "视频2",
+            "url": "https://pic6.iqiyipic.com/image/20250618/91/b8/v_181870246_m_601_m4_318_424.avi"
+          },
+          {
+            "name": "视频3",
+            "url": "https://pic2.iqiyipic.com/image/20260206/31/1c/a_100604014_m_601_m9_318_424.avi"
+          },
+          {
+            "name": "视频4",
+            "url": "https://pic6.iqiyipic.com/image/20251217/8a/e2/v_184540818_m_601_m4_318_424.avi"
+          },
+          {
+            "name": "视频5",
+            "url": "https://pic0.iqiyipic.com/image/20250429/09/7c/v_177791085_m_601_m8_318_424.avi"
+          },
+          {
+            "name": "视频6",
+            "url": "https://pic1.iqiyipic.com/image/20251023/07/44/v_183704285_m_601_m4_318_424.avi"
+          },
+          {
+            "name": "视频7",
+            "url": "https://s.tutu.pm/img/tv/rxJ3/384.avi"
+          },
+          {
+            "name": "视频8",
+            "url": "https://pic4.iqiyipic.com/image/20251017/b1/75/v_181405316_m_601_m3_318_424.avi"
+          },
+          {
+            "name": "视频9",
+            "url": "https://pic0.iqiyipic.com/image/20250305/61/c3/v_179875185_m_601_m1_260_360.avi"
+          }
+        ]
+      }
+    }
+  ]
+}
